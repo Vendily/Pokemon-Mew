@@ -6,21 +6,21 @@ WildVictoryME=VictoryWildPoke
 TrainerBattleBGM=VSTrainer
 SurfBGM=Ship.mid
 BicycleBGM=Airship.mid
-Home=3,7,5,8
+Home=5,32,7,2
 WildBattleBGM=VSWildPoke
 [001]
 # Intro
 [002]
-# PhenomenoTest
+# Tiles
 MapPosition=0,13,12
 Outdoor=true
 ShowArea=true
 [003]
-# Juniper Lab
+# Hibisca's Lab
 BattleBack=IndoorB
 Outdoor=false
 [004]
-# Lila City
+# Berbere City
 MapPosition=0,12,12
 Outdoor=true
 ShowArea=true
@@ -44,7 +44,7 @@ BattleBack=Cave
 Dungeon=false
 Outdoor=false
 [033]
-# Kleini Town
+# Paprika Town
 MapPosition=0,10,14
 Outdoor=true
 ShowArea=true
