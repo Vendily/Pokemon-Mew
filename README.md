@@ -24,5 +24,5 @@ I will now make a changelog with the folders that were changed starting today. I
 * May 29, 2016 - 8pm
   * Data
 
-* May 29, 2016 - 8pm
-  * [This image][https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Characters/BW169.png]
+* May 29, 2016 - 10pm
+  * [This image](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Characters/BW169.png)
