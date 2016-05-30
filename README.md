@@ -3,7 +3,7 @@ A centralized location to download the game.
 
 * * *
 
-I will now make a changelog with the folders that were changed starting today. If I only added a few files, I will link to them directly. You can update by going to http://kinolien.github.io/gitzip/ and pasting in the URL of the folders
+I will now make a changelog with the folders that were changed starting today. If I only added a few files, I will link to them directly. You can update folders by going to http://kinolien.github.io/gitzip/ and pasting in the URL of the folders.
 
 * May 29, 2016 - 11am
   * Data
