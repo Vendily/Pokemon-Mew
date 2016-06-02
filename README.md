@@ -32,7 +32,7 @@ I will now make a changelog with the folders that were changed starting today. I
   * Data
   * [Father](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Characters/BW170.png)
 
-* June 1, 2016 - 8pm
+* June 2, 2016 - 6pm
   * Data
   * [Sylveon Front](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Battlers/Front/650.png)
   * [Sylveon Front Shiny](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Battlers/FrontShiny/650s.png)
