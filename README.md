@@ -49,5 +49,18 @@ I will now make a changelog with the folders that were changed starting today. I
 * August 2, 2016 - ??pm
   * Data
   * PBS
-  * Graphics/Icons
-  * I still have merging to do
+  * Graphics/Icons (too many to list)
+  * You can delete any file that starts with "icon" in Graphics/Characters, my mistake
+  * [Monsoon Season Screen](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Pictures/season_monsoon.png)
+  * [Dry Season Screen](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Pictures/season_dry.png)
+  * [Tileset Monsoon](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Tilesets/Outdoor_monsoon.png)
+  * [Tileset Dry](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Tilesets/Outdoor_dry.png)
+  * [Location Season](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Pictures/locationseason.png)
+  * [Aloha Vulpix Front](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Battlers/Front/037_1.png)
+  * [Aloha Vulpix Back](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Battlers/Back/037b_1.png)
+  * [Aloha Vulpix OW](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Characters/037_1.png)
+  * [Aloha Ninetales Front](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Battlers/Front/038_1.png)
+  * [Aloha Ninetales Back](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Battlers/Back/038b_1.png)
+  * [Aloha Ninetales OW](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Characters/038_1.png)
+  * [Nurse OW](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Characters/BW071.png)
+  * [Nurse OW 2](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Characters/BW071a.png)
