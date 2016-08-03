@@ -45,3 +45,9 @@ I will now make a changelog with the folders that were changed starting today. I
 
 * June 4, 2016 - 11pm
   * [Sylveon Cry](https://raw.githubusercontent.com/Vendily/Pokemon-Mew/master/Audio/SE/Cries/650Cry.wav)
+
+* August 2, 2016 - ??pm
+  * Data
+  * PBS
+  * Graphics/Icons
+  * I still have merging to do
