@@ -1,0 +1,13 @@
+#Don't touch this file at all.
+Editor.exe
+Editor.ini
+animmaker.exe
+animmaker.txt
+extendtext.exe
+extendtext.txt
+knownpoint.bmp
+selpoint.bmp
+
+*.rxproj
+*.url
+*.html
