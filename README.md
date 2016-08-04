@@ -25,42 +25,45 @@ I will now make a changelog with the folders that were changed starting today. I
   * Data
 
 * May 29, 2016 - 10pm
-  * [Motorcycle](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Characters/BW169.png)
-  * [Cordelia](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Characters/BW168.png)
-  * [Alois](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Characters/BW167.png)
+  * [Motorcycle](Graphics/Characters/BW169.png)
+  * [Cordelia](Graphics/Characters/BW168.png)
+  * [Alois](Graphics/Characters/BW167.png)
 * June 1, 2016 - 8pm
   * Data
-  * [Father](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Characters/BW170.png)
+  * [Father](Graphics/Characters/BW170.png)
 
 * June 2, 2016 - 6pm
   * Data
-  * [Sylveon Front](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Battlers/Front/650.png)
-  * [Sylveon Front Shiny](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Battlers/FrontShiny/650s.png)
-  * [Sylveon Back](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Battlers/Back/650b.png)
-  * [Sylveon Back Shiny](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Battlers/BackShiny/650sb.png)
+  * [Sylveon Front](Graphics/Battlers/Front/650.png)
+  * [Sylveon Front Shiny](Graphics/Battlers/FrontShiny/650s.png)
+  * [Sylveon Back](Graphics/Battlers/Back/650b.png)
+  * [Sylveon Back Shiny](Graphics/Battlers/BackShiny/650sb.png)
 
 * June 3, 2016 - 11pm
   * Data
-  * [Cave Music](https://raw.githubusercontent.com/Vendily/Pokemon-Mew/master/Audio/BGM/cave_1.mp3)
+  * [Cave Music](
+  * Audio/BGM/cave_1.mp3)
 
 * June 4, 2016 - 11pm
-  * [Sylveon Cry](https://raw.githubusercontent.com/Vendily/Pokemon-Mew/master/Audio/SE/Cries/650Cry.wav)
+  * [Sylveon Cry](Audio/SE/Cries/650Cry.wav)
 
 * August 2, 2016 - ??pm
   * Data
   * PBS
   * Graphics/Icons (too many to list)
-  * You can delete any file that starts with "icon" in Graphics/Characters, my mistake
-  * [Monsoon Season Screen](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Pictures/season_monsoon.png)
-  * [Dry Season Screen](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Pictures/season_dry.png)
-  * [Tileset Monsoon](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Tilesets/Outdoor_monsoon.png)
-  * [Tileset Dry](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Tilesets/Outdoor_dry.png)
-  * [Location Season](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Pictures/locationseason.png)
-  * [Aloha Vulpix Front](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Battlers/Front/037_1.png)
-  * [Aloha Vulpix Back](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Battlers/Back/037b_1.png)
-  * [Aloha Vulpix OW](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Characters/037_1.png)
-  * [Aloha Ninetales Front](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Battlers/Front/038_1.png)
-  * [Aloha Ninetales Back](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Battlers/Back/038b_1.png)
-  * [Aloha Ninetales OW](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Characters/038_1.png)
-  * [Nurse OW](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Characters/BW071.png)
-  * [Nurse OW 2](https://github.com/Vendily/Pokemon-Mew/blob/master/Graphics/Characters/BW071a.png)
+  * [Monsoon Season Screen](Graphics/Pictures/season_monsoon.png)
+  * [Dry Season Screen](Graphics/Pictures/season_dry.png)
+  * [Tileset Monsoon](Graphics/Tilesets/Outdoor_monsoon.png)
+  * [Tileset Dry](Graphics/Tilesets/Outdoor_dry.png)
+  * [Location Season](Graphics/Pictures/locationseason.png)
+  * [Aloha Vulpix Front](Graphics/Battlers/Front/037_1.png)
+  * [Aloha Vulpix Back](Graphics/Battlers/Back/037b_1.png)
+  * [Aloha Vulpix OW](Graphics/Characters/037_1.png)
+  * [Aloha Ninetales Front](Graphics/Battlers/Front/038_1.png)
+  * [Aloha Ninetales Back](Graphics/Battlers/Back/038b_1.png)
+  * [Aloha Ninetales OW](Graphics/Characters/038_1.png)
+  * [Nurse OW](Graphics/Characters/BW071.png)
+  * [Nurse OW 2](Graphics/Characters/BW071a.png)
+
+* August 3, 2016 - ??pm
+  * [Aloha Vulpix OW](Graphics/Characters/037_1.png)
