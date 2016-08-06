@@ -67,3 +67,7 @@ I will now make a changelog with the folders that were changed starting today. I
 
 * August 3, 2016 - ??pm
   * [Aloha Vulpix OW](Graphics/Characters/037_1.png)
+
+* August 6, 2016 - 1am (Because why not)
+  * [Female Trainer Back](Graphics/Characters/trback001.png)
+  * [Male Trainer Back](Graphics/Characters/trback000.png)
