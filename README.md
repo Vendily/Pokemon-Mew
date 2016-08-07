@@ -41,8 +41,7 @@ I will now make a changelog with the folders that were changed starting today. I
 
 * June 3, 2016 - 11pm
   * Data
-  * [Cave Music](
-  * Audio/BGM/cave_1.mp3)
+  * [Cave Music](Audio/BGM/cave_1.mp3)
 
 * June 4, 2016 - 11pm
   * [Sylveon Cry](Audio/SE/Cries/650Cry.wav)
@@ -56,18 +55,22 @@ I will now make a changelog with the folders that were changed starting today. I
   * [Tileset Monsoon](Graphics/Tilesets/Outdoor_monsoon.png)
   * [Tileset Dry](Graphics/Tilesets/Outdoor_dry.png)
   * [Location Season](Graphics/Pictures/locationseason.png)
-  * [Aloha Vulpix Front](Graphics/Battlers/Front/037_1.png)
-  * [Aloha Vulpix Back](Graphics/Battlers/Back/037b_1.png)
-  * [Aloha Vulpix OW](Graphics/Characters/037_1.png)
-  * [Aloha Ninetales Front](Graphics/Battlers/Front/038_1.png)
-  * [Aloha Ninetales Back](Graphics/Battlers/Back/038b_1.png)
-  * [Aloha Ninetales OW](Graphics/Characters/038_1.png)
+  * [Alolan Vulpix Front](Graphics/Battlers/Front/037_1.png)
+  * [Alolan Vulpix Back](Graphics/Battlers/Back/037b_1.png)
+  * [Alolan Vulpix OW](Graphics/Characters/037_1.png)
+  * [Alolan Ninetales Front](Graphics/Battlers/Front/038_1.png)
+  * [Alolan Ninetales Back](Graphics/Battlers/Back/038b_1.png)
+  * [Alolan Ninetales OW](Graphics/Characters/038_1.png)
   * [Nurse OW](Graphics/Characters/BW071.png)
   * [Nurse OW 2](Graphics/Characters/BW071a.png)
 
 * August 3, 2016 - ??pm
-  * [Aloha Vulpix OW](Graphics/Characters/037_1.png)
+  * [Alolan Vulpix OW](Graphics/Characters/037_1.png)
 
 * August 6, 2016 - 1am (Because why not)
   * [Female Trainer Back](Graphics/Characters/trback001.png)
   * [Male Trainer Back](Graphics/Characters/trback000.png)
+
+* August 7, 2016 - 2am (Love Late Nights)
+  * Data (Updated Alolan Forms with Abilities)
+  * [Female Trainer Mugshot](Graphics\Transitions\vsTrainer1)
