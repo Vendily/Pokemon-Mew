@@ -70,10 +70,7 @@ I will now make a changelog with the folders that were changed starting today. I
 * August 6, 2016 - 1am (Because why not)
   * [Female Trainer Back](Graphics/Characters/trback001.png)
   * [Male Trainer Back](Graphics/Characters/trback000.png)
-<<<<<<< HEAD
 
 * August 7, 2016 - 2am (Love Late Nights)
   * Data (Updated Alolan Forms with Abilities)
   * [Female Trainer Mugshot](Graphics\Transitions\vsTrainer1)
-=======
->>>>>>> 04568ddb7b454bbde26819dcd9c6ee51a2adf1a0
