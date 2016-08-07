@@ -41,8 +41,7 @@ I will now make a changelog with the folders that were changed starting today. I
 
 * June 3, 2016 - 11pm
   * Data
-  * [Cave Music](
-  * Audio/BGM/cave_1.mp3)
+  * [Cave Music](Audio/BGM/cave_1.mp3)
 
 * June 4, 2016 - 11pm
   * [Sylveon Cry](Audio/SE/Cries/650Cry.wav)
