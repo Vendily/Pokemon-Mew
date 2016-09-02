@@ -74,3 +74,31 @@ I will now make a changelog with the folders that were changed starting today. I
 * August 7, 2016 - 2am (Love Late Nights)
   * Data (Updated Alolan Forms with Abilities)
   * [Female Trainer Mugshot](Graphics\Transitions\vsTrainer1)
+
+* August 29, 2016 - 10pm
+  * Data
+  * Graphics/Characters (I renamed files apparently)
+
+* September 1, 2016 - (Even bigger than the big one? It should be, I fixed so much!)
+  * Data
+  * PBS
+  * [Sylveon Front](Graphics/Battlers/Front/650.png)
+  * [Sylveon Back](Graphics/Battlers/Back/650b.png)
+  * Deleted Sylveon Shiny front (650s.png), Shiny Back (650sb.png), and Shiny OW (650s.png) (They're redundant.)
+  * [Male Trainer Surf](Graphics/Characters/boy_surf_offset.png)
+  * [Male Trainer Fishing](Graphics/Characters/boy_fish_offset.png)
+  * [Male Trainer Surf Fishing](Graphics/Characters/boy_fishsurf_offset.png)
+  * [Male Trainer Dive](Graphics/Characters/boy_dive_offset.png)
+  * [Male Trainer Mew](Graphics/Characters/trchar000_1.png)
+  * [Male Trainer Mew Run](Graphics/Characters/boy_run_1.png)
+  * [Female Trainer Surf](Graphics/Characters/girl_surf_offset.png)
+  * [Female Trainer Fishing](Graphics/Characters/girl_fish_offset.png)
+  * [Female Trainer Surf Fishing](Graphics/Characters/girl_fishsurf_offset.png)
+  * [Female Trainer Dive](Graphics/Characters/girl_dive_offset.png)
+  * [Female Trainer Mew](Graphics/Characters/trchar001_1.png)
+  * [Female Trainer Mew Run](Graphics/Characters/girl_run_1.png)
+  * [Renamed Unown K from 201_](Graphics/Characters/201_10.png)
+  * [Renamed Shiny Unown K from 201_](Graphics/Characters/201s_10.png)
+  * [Outdoor Tileset](Graphics/Tilesets/Outdoor.png)
+  * [Outdoor Dry Tileset](Graphics/Tilesets/Outdoor_dry.png)
+  * [Outdoor Monsoon Tileset](Graphics/Tilesets/Outdoor_monsoon.png)

@@ -51,7 +51,6 @@ ShowArea=true
 [043]
 # Route 1
 MapSize=2,0111
-Weather=Rain,100
 MapPosition=0,11,13
 Outdoor=true
 ShowArea=false
