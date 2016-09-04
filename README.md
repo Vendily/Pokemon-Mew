@@ -102,3 +102,6 @@ I will now make a changelog with the folders that were changed starting today. I
   * [Outdoor Tileset](Graphics/Tilesets/Outdoor.png)
   * [Outdoor Dry Tileset](Graphics/Tilesets/Outdoor_dry.png)
   * [Outdoor Monsoon Tileset](Graphics/Tilesets/Outdoor_monsoon.png)
+
+* September 3, 2016
+  * Data

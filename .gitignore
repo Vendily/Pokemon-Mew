@@ -7,6 +7,7 @@ extendtext.exe
 extendtext.txt
 knownpoint.bmp
 selpoint.bmp
+ExportImportBW.txt
 
 *.rxproj
 *.url
