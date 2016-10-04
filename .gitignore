@@ -6,6 +6,7 @@ extendtext.txt
 knownpoint.bmp
 selpoint.bmp
 ExportImportBW.txt
+/SavedMaps/**
 
 *.rxproj
 *.url
