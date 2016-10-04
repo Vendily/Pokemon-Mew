@@ -44,7 +44,7 @@ BattleBack=Cave
 Dungeon=false
 Outdoor=false
 [033]
-# Paprika Town
+# Paprika Village
 MapPosition=0,10,14
 Outdoor=true
 ShowArea=true

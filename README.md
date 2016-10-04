@@ -32,7 +32,7 @@ I will now make a changelog with the folders that were changed starting today. I
 
 * August 7, 2016 - 2am (Love Late Nights)
   * Data (Updated Alolan Forms with Abilities)
-  * [Female Trainer Mugshot](Graphics\Transitions\vsTrainer1)
+  * [Female Trainer Mugshot](Graphics/Transitions/vsTrainer1)
 
 * August 29, 2016 - 10pm
   * Data
@@ -67,3 +67,8 @@ I will now make a changelog with the folders that were changed starting today. I
 
 * September 5, 2016
   * Data
+
+* October 3, 2016 (It's been a month, I forgot what I did.)
+  * Data
+  * [Editor.exe](Editor.exe) and [Editor.ini](Editor.ini)
+  * [Male Trainer Mugshot](Graphics/Transitions/vsTrainer0)
