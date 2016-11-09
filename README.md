@@ -73,7 +73,15 @@ I will now make a changelog with the folders that were changed starting today. I
   * [Editor.exe](Editor.exe) and [Editor.ini](Editor.ini)
   * [Male Trainer Mugshot](Graphics/Transitions/vsTrainer0)
   
-* November 8, 2016 (It's been another month, oops.)
-  * Data
+* November 8/9, 2016 (It's been another month, oops.)
+  * Data (Must Redownload)
   * Graphics/Pictures/Clock (Skins)
   * Audio/BGM (Just tossed in SM music, no previews.)
+  * Graphics/Animations
+  * Graphics/Battlebacks
+  * [Subsitute Front](Graphics/Battlers/substitute.png) and [Subsitute Back](Graphics/Battlers/substitute_back.png)
+  * Graphics/Transitions
+  * Graphics/Pictures/EBS
+  * [Move Status Type](Graphics/Pictures/category.png)
+  * [Ball Empty](Graphics/Pictures/ballempty.png),[Ball Fainted](Graphics/Pictures/ballfainted.png), [Ball Normal](Graphics/Pictures/ballnormal.png), and [Ball Status](Graphics/Pictures/ballstatus.PNG)
+  * [Alois OW](Graphics/Characters/BW167.png) and [Cordila OW](Graphics/Characters/BW168.png)
