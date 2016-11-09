@@ -72,3 +72,8 @@ I will now make a changelog with the folders that were changed starting today. I
   * Data
   * [Editor.exe](Editor.exe) and [Editor.ini](Editor.ini)
   * [Male Trainer Mugshot](Graphics/Transitions/vsTrainer0)
+  
+* November 8, 2016 (It's been another month, oops.)
+  * Data
+  * Graphics/Pictures/Clock (Skins)
+  * Audio/BGM (Just tossed in SM music, no previews.)
