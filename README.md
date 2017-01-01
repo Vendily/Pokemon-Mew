@@ -85,3 +85,8 @@ I will now make a changelog with the folders that were changed starting today. I
   * [Move Status Type](Graphics/Pictures/category.png)
   * [Ball Empty](Graphics/Pictures/ballempty.png),[Ball Fainted](Graphics/Pictures/ballfainted.png), [Ball Normal](Graphics/Pictures/ballnormal.png), and [Ball Status](Graphics/Pictures/ballstatus.PNG)
   * [Alois OW](Graphics/Characters/BW167.png) and [Cordila OW](Graphics/Characters/BW168.png)
+  
+* December 31, 2016 (Happy New Year!)
+  * Data (Must Redownload)
+  * [Alois OW Alternate Sprites](Graphics/Characters/BW167a.png), [Cordila OW Alternate Sprites](Graphics/Characters/BW168a.png) and [Velia OW Alternate Sprites](Graphics/Characters/BW166a.png)
+  * There's a safety copy of the boy's surfing sprite, just ignore it, the game will create it itself.
